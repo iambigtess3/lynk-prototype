@@ -3,9 +3,9 @@
 // are plural forms chosen by the count.
 
 I18N.add('en', {
-  'app.title': 'Ubuntu Invest — App prototype',
+  'app.title': 'Lynk — App prototype',
   'app.disclaimer':
-    'Ubuntu Invest prototype. All prices, balances and returns are simulated. No real money, trades or accounts are involved, and the broker partnership is proposed.',
+    'Lynk prototype. All prices, balances and returns are simulated. No real money, trades or accounts are involved, and the broker partnership is proposed.',
 
   // Tabs
   'tab.navLabel': 'Main',
@@ -49,7 +49,7 @@ I18N.add('en', {
   'sector.beverages': 'Beverages',
 
   // Onboarding
-  'ob.dialogLabel': 'Welcome to Ubuntu Invest',
+  'ob.dialogLabel': 'Welcome to Lynk',
   'ob.lede': 'Invest in the Rwanda Stock Exchange from your phone, on your own or together with your ikimina.',
   'ob.point1': 'Buy shares in companies listed on the Rwanda Stock Exchange',
   'ob.point2': 'Invest as a group with Our Circle, with your own share tracked separately',

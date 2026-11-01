@@ -10,7 +10,7 @@
 // box, so a different shape won't move other parts of the layout.
 
 window.BRAND = {
-  name: 'LYNK',
+  name: 'Lynk',
   logo: {
     // Symbol + "lynk" wordmark (mint and white), for dark backgrounds
     src: 'assets/lynk-logo.png',

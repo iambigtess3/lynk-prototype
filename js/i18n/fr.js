@@ -2,9 +2,9 @@
 // Missing keys fall back to English automatically.
 
 I18N.add("fr", {
-  "app.title": "Ubuntu Invest — Prototype d’application",
+  "app.title": "Lynk — Prototype d’application",
   "app.disclaimer":
-    "Prototype Ubuntu Invest. Prix, soldes et rendements simulés. Aucun argent, aucune transaction ni aucun compte réels ; le partenariat avec le courtier est proposé.",
+    "Prototype Lynk. Prix, soldes et rendements simulés. Aucun argent, aucune transaction ni aucun compte réels ; le partenariat avec le courtier est proposé.",
 
   "tab.navLabel": "Navigation principale",
   "tab.home": "Accueil",
@@ -43,7 +43,7 @@ I18N.add("fr", {
   "sector.telecoms": "Télécommunications",
   "sector.beverages": "Boissons",
 
-  "ob.dialogLabel": "Bienvenue sur Ubuntu Invest",
+  "ob.dialogLabel": "Bienvenue sur Lynk",
   "ob.lede": "Investissez à la Bourse du Rwanda depuis votre téléphone, seul ou avec votre ikimina.",
   "ob.point1": "Achetez des actions de sociétés cotées à la Bourse du Rwanda",
   "ob.point2": "Investissez en groupe avec Notre Cercle, votre part étant suivie séparément",

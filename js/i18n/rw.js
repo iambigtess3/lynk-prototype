@@ -5,9 +5,9 @@
 // Missing keys fall back to English automatically.
 
 I18N.add("rw", {
-  "app.title": "Ubuntu Invest — Porogaramu y'igerageza",
+  "app.title": "Lynk — Porogaramu y'igerageza",
   "app.disclaimer":
-    "Porogaramu y'igerageza ya Ubuntu Invest. Ibiciro n'amafaranga byose ni igerageza. Nta mafaranga, ubucuruzi cyangwa konti nyabyo. Ubufatanye n'umuhuza buracyategurwa.",
+    "Porogaramu y'igerageza ya Lynk. Ibiciro n'amafaranga byose ni igerageza. Nta mafaranga, ubucuruzi cyangwa konti nyabyo. Ubufatanye n'umuhuza buracyategurwa.",
 
   "tab.navLabel": "Ibice by'ingenzi",
   "tab.home": "Ahabanza",
@@ -46,7 +46,7 @@ I18N.add("rw", {
   "sector.telecoms": "Itumanaho",
   "sector.beverages": "Ibinyobwa",
 
-  "ob.dialogLabel": "Murakaza neza kuri Ubuntu Invest",
+  "ob.dialogLabel": "Murakaza neza kuri Lynk",
   "ob.lede": "Shora imari ku Isoko ry'Imari n'Imigabane ry'u Rwanda ukoresheje telefoni yawe, wenyine cyangwa hamwe n'ikimina cyawe.",
   "ob.point1": "Gura imigabane y'ibigo biri ku Isoko ry'Imari n'Imigabane ry'u Rwanda",
   "ob.point2": "Shora hamwe n'itsinda, umugabane wawe ukabarwa ukwawo",
